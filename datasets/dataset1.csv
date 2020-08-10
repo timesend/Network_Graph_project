@@ -1,4 +1,4 @@
-user_id,number_of_ticks,date_time_when_read,chapter,book,numberofentriesofbook,numberofusersofbook,product_manning_id,user_owns_book
+user_id,number_of_ticks,date_created,chapter,book,numberofentriesofbook,numberofusersofbook,product_manning_id,user_owns_book
 -2147277864,1," ""2019-10-27 08:58:15""", chapter-8, bhargava,888,440,610,1
 -2146355313,8," ""2019-12-14 10:05:50""", chapter-8, fain3,737,225,1069,1
 -2146355313,8," ""2019-12-14 10:05:50""", chapter-1, ramamurthy,715,202,1120,1
